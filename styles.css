@@ -1,0 +1,58 @@
+*{
+    border: box;
+}
+body{
+    background-color: #333333;
+}
+header{
+    text-align: center;
+    background-color:#1F2833 ;
+    color: #66FCF1;
+    margin:auto;
+    padding: 0px;
+    overflow: hidden;
+}
+.fifalogo{
+    float: left;
+    padding-top: 45px;
+    padding-left: 10px;
+    margin: 0;
+    }
+    .fifalogo img{
+        border-radius: 100px;
+    }
+    ul{
+        float: right;
+        list-style-type: none;
+        margin:0 0 0 0;
+        padding: 0;
+        overflow: hidden;
+    }
+     li{
+        float: left;
+    }
+     a li{
+        display: block;
+        color: whitesmoke;
+        text-align: center;
+        padding: 10px;
+        text-decoration: none;
+    }
+     a:hover li{
+        background-color: #111111;
+        color: rgb(235, 85, 85);
+      }
+      .history{
+        background-color:#45A29E ;
+        padding: 10px;
+        margin: 3px;
+        color:whitesmoke;
+      }
+      .h1h4{
+        color: #111111;
+        text-align: center;
+        font-size: 25px;
+      }
+      .h1h4 h4{
+        font-size: 20px;
+      }
